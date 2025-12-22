@@ -21,4 +21,10 @@ section {
 
 h2 {
     color: #333;
+}.
+avatar {
+  width: 180px;
+  border-radius: 50%;
+  display: block;
+  margin: 15px auto;
 }
