@@ -26,12 +26,13 @@ section {
 
 h2 {
     color: #333;
-}.
-avatar {
-  width: 180px;
-  border-radius: 50%;
-  display: block;
-  margin: 15px auto;
+}.avatar {
+  width: 200px;        /* ширина фото */
+  height: auto;        /* сохраняем пропорции */
+  border-radius: 50%;   /* делаем фото круглым */
+  display: block;       /* по центру */
+  margin: 15px auto;    /* отступы сверху/снизу */
+}
 }
 nav {
   text-align: center;
