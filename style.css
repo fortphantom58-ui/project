@@ -5,7 +5,12 @@ body {
     background: #f2f2f2;
 }
 
-header {
+header <nav>
+  <a href="#about">О себе</a>
+  <a href="#skills">Навыки</a>
+  <a href="#projects">Проекты</a>
+  <a href="#contacts">Контакты</a>
+</nav>{
     background: #444;
     color: white;
     padding: 20px;
